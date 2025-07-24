@@ -5,8 +5,8 @@ from tenacity import retry, stop_after_attempt, wait_exponential, retry_if_excep
 
 # Initialize client with increased timeout
 client = OpenAI(
-  base_url="https://openrouter.ai/api/v1",
-  api_key="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",
+  base_url="#",
+  api_key="#",
 )
 
 
