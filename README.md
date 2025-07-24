@@ -1,6 +1,6 @@
 # LLMs4OL Challenge @ ISWC 2025
 
-This repository contains the code, prompts, and evaluation scripts for the **2nd Large Language Models for Ontology Learning (LLMs4OL) Challenge**, co-located with **ISWC 2025** in Nara, Japan (Nov 2–6, 2025) :contentReference[oaicite:1]{index=1}.
+This repository contains the code, prompts, and evaluation scripts for the **2nd Large Language Models for Ontology Learning (LLMs4OL) Challenge**, co-located with **ISWC 2025** in Nara, Japan (Nov 2–6, 2025) 
 
 ---
 
